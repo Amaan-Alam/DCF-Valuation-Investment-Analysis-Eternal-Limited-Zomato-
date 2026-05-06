@@ -46,10 +46,17 @@ Other key drivers:
 WACC is built from a CAPM‑based cost of equity and after‑tax cost of debt, weighted by target capital structure:
 
 **Cost of Equity:**  
-$$ \text{Cost of Equity} = R_f + \beta \times \text{ERP} $$
+$$
+\text{Cost of Equity} = R_f + \beta \times \text{ERP}
+$$
 
 **WACC Formula:**  
-$$ \text{WACC} = (E/V) \times \text{Cost of Equity} + (D/V) \times \text{After‑tax Cost of Debt} $$
+WACC Formula:
+
+$$
+\text{WACC} = (E/V) \times \text{Cost of Equity} + (D/V) \times \text{After-tax Cost of Debt}
+$$
+
 
 | Parameter | Base | Optimistic | Pessimistic |
 |-----------|------|------------|-------------|
