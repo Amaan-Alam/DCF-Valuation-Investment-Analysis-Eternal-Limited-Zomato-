@@ -1,4 +1,4 @@
-# **Eternal Limited (formerly Zomato) – DCF Valuation Model**
+# **DCF Valuation & Investment Analysis – Eternal Limited (Zomato)**
 
 ## <u>Executive Summary</u>
 This repository contains a comprehensive three-scenario Discounted Cash Flow (DCF) valuation of **Eternal Limited** (NSE: ETERNAL, formerly Zomato). The model derives the intrinsic equity value per share as of **5 May 2026** using the Free Cash Flow to Firm (FCFF) methodology over a 10‑year explicit forecast (FY26E–FY35E) and a Gordon Growth terminal value.
